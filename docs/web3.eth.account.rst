@@ -346,6 +346,7 @@ The following methods are available on the ``Web3.eth.account`` namespace.
 Private Key Convenience Methods
 ----------------------------------
 
+
 The following are a set of methods that mirror :class:`Account` methods, but
 with a prefilled private key. They are accessible as a result of the :meth:`~Account.create` and
 :meth:`~Account.privateKeyToAccount` calls.
